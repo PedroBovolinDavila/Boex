@@ -15,13 +15,13 @@ API para cadastro de livros e usuarios, onde um usuario pode alugar um livro
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/PedroBovolinDavila/Boex.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd Boex
 ```
 
 Instale as dependências
